@@ -4,6 +4,8 @@ change: To implement Login feature and update the code
 
 change:To test Logout
 
-Change:To fix bug
-
 change:To test 3-way merge changed by team mate for some feature
+
+Change:To fix bug1
+
+change:To fix bug2
