@@ -8,4 +8,6 @@ change:To test 3-way merge changed by team mate for some feature
 
 Change:To fix bug1
 
-change:To fix bug2
+5.change:To fix bug2
+
+6.change: to check rebase hence this change is grom teammate
