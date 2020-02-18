@@ -1,0 +1,89 @@
+    1  git config --global user.name "Anamitra"
+    2  git config --global user.email "anamitra_sengupta@persistent.com"
+    3  git config --list
+    4  git config --global core.editor "notepad"
+    5  git config --list
+    6  git init
+    7  git status
+    8  git add File 1.txt
+    9  git status
+   10  git add File1.txt
+   11  git status
+   12  git commit -m "File1 created with hello world"
+   13  git status
+   14  git status
+   15  git add .
+   16  git status
+   17  git commit -m "File1 modified for login features"
+   18  git status
+   19  git log
+   20  git log --oneline
+   21  git log -1
+   22  git log -1 --oneline
+   23  git log --author="Ana"
+   24  git log --since="02/16/2020" --oneline
+   25  git log --until="02/17/2020" --oneline
+   26  git log --grep="Login" --oneline
+   27  git log --grep="login" --oneline
+   28  git log --help
+   29  git status
+   30  git status
+   31* git 
+   32  git commit -m "created .gitignore file to skip class,jar,temp files"
+   33  git status
+   34  git log -1
+   35  git status
+   36  git diff
+   37  git commit -a -m "File updated for logout and login"
+   38  git status
+   39  git log -oneline
+   40  git log --oneline
+   41  get diff
+   42  git diff
+   43  git diff
+   44  git diff
+   45  git checkout master
+   46  git checkout --File1.txt
+   47  git checkout -- File1.txt
+   48  git status
+   49  git add .
+   50  git commit -m "FileToBeDeleted created to vheck the event"
+   51  git status
+   52  git status
+   53  git rm FileToBeDeleted.txt
+   54  git status
+   55  git commit -m "Filetobedeleted is removed for reason"
+   56  git status
+   57  git log --oneline
+   58  git checkout 6f06cb4
+   59  git log --oneline
+   60  git checkout master
+   61  git log --oneline
+   62  git status
+   63  git diff
+   64  git checkout -- File1.txt
+   65  git status
+   66  git log --oneline
+   67  git status
+   68  git log --oneline
+   69  git revert 37bf2a9
+   70  git status
+   71  git log --oneline
+   72  git reset 37bf2a9
+   73  git log --oneline
+   74  git status
+   75  git reset 5334fc3
+   76  git status
+   77  git log --oneline
+   78  git reset 581d6a0
+   79  git log --oneline
+   80  git status
+   81  git reset --help
+   82  git add .
+   83  git commit -m "Filetobedeleted added to delete"
+   84  git status
+   85  git log --oneline
+   86  git reset --hard 581d6a0
+   87  git status
+   88  git log --oneline
+   89  history >> Cmm.txt
