@@ -1,7 +1,9 @@
 Hello World!!
 
-change: to implement Login feature and update the code
+change: To implement Login feature and update the code
 
-change:to test Logout
+change:To test Logout
 
-Change:to fix bug
+Change:To fix bug
+
+change:To test 3-way merge changed by team mate for some feature
