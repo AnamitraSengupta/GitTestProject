@@ -2,8 +2,12 @@ implementing cr1
 
 change for stash
 
-changed aGAIN to test push
+changed AGAIN to test push
 
 changed by team mate on remote repository
 
 changed to test rebase on remote repository
+
+changed Again to test push
+
+changed to test rebase on my local repository
